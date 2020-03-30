@@ -2,8 +2,8 @@ import React from "react"
 import Layout from "./components/Layout"
 
 const Index = () => (
-  <div>
-    <Layout>
+  <Layout>
+    <div class="showcase">
       <h2>Who Am I?</h2>
       <p>
         I am Joshua Faria, I am a recent graduate from the University of North
@@ -37,8 +37,8 @@ const Index = () => (
       </p>
 
       <p>The next game at this moment I'm looking forward to is Doom Eternal</p>
-    </Layout>
-  </div>
+    </div>
+  </Layout>
 )
 
 export default Index
