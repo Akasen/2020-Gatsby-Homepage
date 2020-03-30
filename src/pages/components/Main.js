@@ -1,11 +1,7 @@
 import React from "react"
 
 const Main = ({ children }) => {
-  return (
-    <div class="main">
-      <div class="showcase">{children}</div>
-    </div>
-  )
+  return <div class="main">{children}</div>
 }
 
 export default Main
