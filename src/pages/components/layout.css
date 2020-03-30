@@ -19,6 +19,13 @@ body {
   position: relative;
 }
 
+.showcase a {
+  text-decoration: none;
+  font: "Roboto", sans-serif;
+  color: #29262d;
+  display: block;
+}
+
 .main {
   font-family: "Roboto", sans-serif;
   grid-area: content;
