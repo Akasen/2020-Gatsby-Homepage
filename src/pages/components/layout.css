@@ -20,7 +20,7 @@ body {
 }
 
 .main {
-  display: flex;
+  font-family: "Roboto", sans-serif;
   grid-area: content;
   color: #4b4453;
   background-color: #f7f7f2;
