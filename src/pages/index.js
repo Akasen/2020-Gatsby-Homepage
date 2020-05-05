@@ -35,8 +35,6 @@ const Index = () => (
         architecture, the rise of Linux as a highly viable OS for gaming, or
         just looking for the next big game to sink hours into.
       </p>
-
-      <p>The next game at this moment I'm looking forward to is Doom Eternal</p>
     </div>
   </Layout>
 )
