@@ -35,34 +35,15 @@ const Projects = () => (
         </p>
         <p>This project was developed using Microsoft ASP.NET Core.</p>
         <p>
-          I will with great candor admit that in all honesty, everyone in my
-          team was significantly underprepared for this project. In any moment I
-          think about or speak about this project, I constantly wonder "what if"
-          with relation to myself and my own studies.
+          This project was probably one of the more complicated projects I had
+          ever done all things considered. While I had some experience in
+          working on Ruby on Rails before, I had never had to work on something
+          with the scope of this project. Admittedly, my group as a whole had
+          over-estimated the ease of the project we seemed to have and so we
+          ended up promising features to our client that wasn't even reasonable
+          for us considering our skills.
         </p>
-        <p>
-          At no point ever did I ever find myself taking a course that went into
-          great detail about ASP.NET development, or any modern web development
-          concepts. Would I have been, at the very least as an individual,
-          better prepared had I the knowledge I do now about basic Javascript
-          web development?
-        </p>
-        <p>
-          Also with candor, probably not. ASP.NET and the Visual Studio IDE are
-          a different beast from what I can tell. Certainly, there'd be some
-          overlap, but I would make the uneducated argument that between even
-          Ruby, Python, and Javascript backend development, you at least have a
-          lot more basic common ground to work with, like with that of package
-          managers.
-        </p>
-        <p>
-          I'd have been better off spending two academic years being constantly
-          immersed in ASP.NET and C# development all things considered, at least
-          with relation to my Senior Project. Of course, I also think that's a
-          horrible idea in itself. I also wouldn't agree with the choice of
-          basically putting students through fullstack Javascript as their path,
-          but I'd wager it's a better alternative.
-        </p>
+        <p>Overall, a major learning experience.</p>
       </div>
       <div class="showcase">
         <h1>
