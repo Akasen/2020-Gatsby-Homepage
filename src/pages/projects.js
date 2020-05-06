@@ -86,6 +86,26 @@ const Projects = () => (
           spare time.
         </p>
         <p>But I did it because I was curious.</p>
+        <p>
+          It is a bit of a learning experience though to be honest, as normally
+          most servers one can get off the internet tend to have apache or nginx
+          already installed, and I assume installing either from the package
+          manager of any given Linux distribution would also have things
+          somewhat setup.
+        </p>
+        <p>
+          I say this because I had to deal with actually learning how to make my
+          webserver run at all times, even after a system reboot. Although it
+          took me a bit because for some reason looking this up in relation to
+          Node kept giving me answers about "forever" (a node application or
+          something) or "nohup", the latter being a seemingly alright solution.
+          Until I learned about systemd.
+        </p>
+        <p>
+          I'll have to figure out what the better question I should have been
+          asking Google should have been, cause I almost was about to venture
+          into using "forever", which likely is no longer maintained.
+        </p>
       </div>
     </Layout>
   </div>
