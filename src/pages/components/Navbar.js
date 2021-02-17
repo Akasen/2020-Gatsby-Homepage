@@ -7,7 +7,7 @@ const Navbar = () => {
   return (
     <div className="navbar">
       <Link to="/">
-        <img class="profilepic" src={profile} />
+        <img className="profilepic" src={profile} alt="Myself" />
       </Link>
       <ul class="navlinks">
         <li>
