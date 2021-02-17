@@ -6,27 +6,15 @@ const Index = () => (
     <div class="showcase">
       <h2>Who Am I?</h2>
       <p>
-        I am Joshua Faria, I am a recent graduate from the University of North
+        I am Joshua Faria, I am a graduate from the University of North
         Florida with a Bachelors Degree in Computer and Information Science.
       </p>
 
       <p>
-        If I had to describe myself with some sort of title, it would be an
-        amateur developer
-      </p>
-
-      <p>
         I am a curious person, always looking into topics and personal research
-        to see how things work and why things are done. I'm also the kind of
-        person who if he see's a problem, I immediatley look for solutions,
-        scoping out all possibilities and becoming fairly acquainted with my
-        issue.
-      </p>
-
-      <p>
-        I'm always looking to learn new things, open to new ideas, and
-        constantly motivated to understanding new concepts, tools, and improving
-        my means of productivity.
+        to see how things work and why things are done. Fond of long nights solving
+        problems, working on personal projects, and reading about all the current and
+        new technologies which power the web.
       </p>
 
       <p>
